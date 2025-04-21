@@ -1,0 +1,228 @@
+{
+  "auth": {
+    "description": "作成者は認証を有効にしています。以下の共有コードを入力してください",
+    "form": {
+      "confirm_button": "確認",
+      "confirm_button_loading": "検証中",
+      "input_code": "共有コードを入力してください",
+      "remember_code": "共有コードを記憶する"
+    },
+    "title": "コードを共有する必要がある"
+  },
+  "error": {
+    "generate_failed": "生成に失敗しました",
+    "image_empty": "画像をアップロードしてください",
+    "max_parallel_generations": "最大{{count}}件の並列生成が許可されています。一部が完了するまでお待ちください。",
+    "max_parallel_generations_tooltip": "最大並列生成制限に達しました",
+    "missing_required_fields_model": "モデルを選択してください",
+    "missing_required_fields_resolution": "解像度を選択してください"
+  },
+  "global": {
+    "copied_to_clipboard": "クリップボードにコピーしました",
+    "prompt": "プロンプト",
+    "error": {
+      "code_invalid": "共有コードが無効です。詳細は302.AIをご覧ください",
+      "copy_failed": "コピーに失敗しました",
+      "network_error": "ネットワークサービスエラー。ネットワーク状態を確認するか、後ほど再試行してください",
+      "not_found": "ページが存在しません",
+      "tool_deleted": "このツールは削除されました。詳細については、<site>302.AI</site> にアクセスしてください。",
+      "tool_disabled": "このツールは無効になっています。詳細については、<site>302.AI</site> にアクセスしてください。",
+      "unknown_error": "不明なエラーが発生しました。サポートにお問い合わせください"
+    },
+    "footer": {
+      "copyright_content": "<logo></logo>による提供",
+      "copyright_leading": "AI生成のコンテンツであり、参考用です"
+    },
+    "header": {
+      "language_switcher": {
+        "switch_language": "言語を切り替える"
+      },
+      "theme_switcher": {
+        "dark": "ダークモード",
+        "light": "ライトモード",
+        "system": "システムデフォルト",
+        "toggle_theme": "テーマを切り替える"
+      },
+      "tool_info": {
+        "description": "現在のツールに関する情報",
+        "title": "について",
+        "trigger": {
+          "label": "ツール情報ポップアップを開く/閉じる"
+        }
+      }
+    }
+  },
+  "home": {
+    "header": {
+      "title": "AI図面提示語専門家"
+    }
+  },
+  "history": {
+    "empty": "履歴がありません"
+  },
+  "resolution": "解像度",
+  "resolutionPlaceholder": "解像度を選択",
+  "prompt_placeholder": "画像からプロンプトを生成するか、画像をアップロードしてプロンプトを生成してください",
+  "model": "モデル",
+  "modelPlaceholder": "モデルを選択",
+  "switch": {
+    "natural_language": "自然言語",
+    "keywords": "キーワード",
+    "history": "生成履歴",
+    "pic": "画像",
+    "text_description": "テキスト説明",
+    "image_reference": "画像参考"
+  },
+  "file": {
+    "drop_file": "ここにファイルをドラッグ&ドロップ",
+    "or": "または",
+    "upload_file": "ローカル画像をアップロード",
+    "support": "jpg、png形式をサポート",
+    "uploading": "アップロード中"
+  },
+  "language": {
+    "zh": "中国語",
+    "ja": "日本語",
+    "translate": "翻訳"
+  },
+  "image_desc_reference": {
+    "title": "画像説明参考",
+    "reference_image": "参考画像",
+    "origin_image": "操作画像"
+  },
+  "actions": {
+    "generate_prompt": "画像からプロンプトを生成",
+    "generate_image": "画像生成",
+    "expand": "展開",
+    "collapse": "折りたたむ",
+    "show_more": "もっと見る",
+    "show_less": "もっと少なく",
+    "generate_options": "生成インスピレーションオプション",
+    "options": "インスピレーションオプション",
+    "delete_image": "画像を削除",
+    "change_style": "スタイル変更",
+    "style_description": "変更したいスタイルを選択するか、文字で説明してください",
+    "switch_style": "スタイル切替",
+    "download": "ダウンロード",
+    "add_as_style": "スタイル操作画像に追加",
+    "add_as_reference": "スタイル参考画像に追加",
+    "delete": "削除",
+    "generating_prompt": "プロンプトを生成中",
+    "replace_image": "画像を置換"
+  },
+  "category": {
+    "composition": {
+      "title": "構図",
+      "rule_of_thirds": "三分割法",
+      "symmetrical": "対称構図",
+      "leading_lines": "誘導線",
+      "framing": "フレーミング構図",
+      "negative_space": "余白",
+      "diagonal": "斜め構図",
+      "close_up": "クローズアップ",
+      "diagonal_composition": "対角線構図",
+      "fill_the_frame": "フレームフィル構図"
+    },
+    "lighting": {
+      "title": "ライティング",
+      "side_lighting": "サイドライト",
+      "backlight": "逆光",
+      "soft_light": "ソフトライト",
+      "hard_light": "ハードライト",
+      "natural_light": "自然光",
+      "artificial_light": "人工光",
+      "point_light": "点光源"
+    },
+    "depth": {
+      "title": "被写界深度",
+      "shallow": "浅い被写界深度",
+      "deep": "深い被写界深度",
+      "graduated": "段階的な被写界深度",
+      "selective_focus": "選択的フォーカス"
+    },
+    "color": {
+      "title": "色彩",
+      "high_saturation": "高彩度",
+      "low_saturation": "低彩度",
+      "monochromatic": "モノクロ調",
+      "complementary": "補色",
+      "vibrant": "鮮やか",
+      "cool_tones": "寒色調",
+      "warm_tones": "暖色調",
+      "high_contrast": "ハイコントラスト",
+      "low_contrast": "ローコントラスト",
+      "black_and_white": "白黒"
+    },
+    "texture": {
+      "title": "テクスチャ",
+      "smooth": "滑らか",
+      "rough": "粗い",
+      "textured": "質感",
+      "watercolor": "水彩",
+      "oil_painting": "油絵",
+      "sketch": "スケッチ",
+      "printmaking": "版画",
+      "ink_painting": "水墨画",
+      "crayon": "クレヨン画",
+      "metallic": "メタリック"
+    },
+    "perspective": {
+      "title": "アングル",
+      "low_angle": "ローアングル",
+      "eye_level": "アイレベル",
+      "oblique": "斜めアングル"
+    },
+    "style": {
+      "title": "スタイル",
+      "photography": "写真",
+      "illustration": "イラスト",
+      "surrealism": "シュルレアリスム",
+      "abstract": "抽象芸術",
+      "impressionism": "印象派",
+      "modernism": "モダニズム",
+      "post_modernism": "ポストモダニズム",
+      "cyberpunk": "サイバーパンク",
+      "post_apocalyptic": "ポストアポカリプス",
+      "anime": "アニメ",
+      "realism": "リアリズム"
+    },
+    "theme": {
+      "title": "テーマ",
+      "fantasy": "ファンタジー",
+      "nostalgic": "ノスタルジック",
+      "nature": "自然",
+      "urban": "都市",
+      "portrait": "ポートレート"
+    }
+  },
+  "info": {
+    "active_generations": "アクティブな生成: {{count}}"
+  },
+  "styles": {
+    "anime": "アニメ",
+    "watercolor": "水彩",
+    "low_poly": "ローポリ",
+    "pixel_art": "ピクセルアート",
+    "steampunk": "スチームパンク",
+    "cyberpunk": "サイバーパンク",
+    "minimalist": "ミニマリスト",
+    "retro": "レトロ",
+    "graffiti": "グラフィティ",
+    "realistic": "リアリスティック",
+    "impressionism": "印象派",
+    "surrealism": "シュルレアリスム",
+    "abstract": "抽象アート",
+    "classical": "クラシカル",
+    "pop_art": "ポップアート",
+    "ghibli": "ジブリ",
+    "sci_fi": "SF",
+    "illustration": "イラスト",
+    "ink_painting": "水墨画",
+    "sketch": "スケッチ",
+    "black_and_white": "モノクロ",
+    "crayon": "クレヨン",
+    "disney": "ディズニースタイル",
+    "3d_animation": "3Dアニメーション",
+    "dreamy": "ドリーミー"
+  }
+}

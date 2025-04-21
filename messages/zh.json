@@ -1,0 +1,237 @@
+{
+  "auth": {
+    "description": "创建者开启了验证，请在下方填入分享码",
+    "form": {
+      "confirm_button": "确认",
+      "confirm_button_loading": "验证中",
+      "input_code": "请输入分享码",
+      "remember_code": "记住分享码"
+    },
+    "title": "需要分享码"
+  },
+  "error": {
+    "generate_failed": "生成失败",
+    "image_empty": "请上传一张图片",
+    "max_parallel_generations": "最多允许{{count}}个并行生成。请等待一些完成。",
+    "max_parallel_generations_tooltip": "已达到最大并行生成限制",
+    "missing_required_fields_model": "请选择模型",
+    "missing_required_fields_resolution": "请选择分辨率"
+  },
+  "resolution": "分辨率",
+  "resolutionPlaceholder": "选择分辨率",
+  "model": "模型",
+  "modelPlaceholder": "选择模型",
+  "prompt_placeholder": "请输入想要优化的提示词或上传图片生成提示词",
+  "loading": "加载中...",
+  "common": {
+    "pagination": {
+      "previous": "上一页",
+      "next": "下一页",
+      "more_pages": "更多页面"
+    }
+  },
+  "global": {
+    "copied_to_clipboard": "已复制到剪贴板",
+    "prompt": "提示词",
+    "error": {
+      "copy_failed": "复制失败",
+      "code_invalid": "分享码错误, 更多请访问 302.AI",
+      "network_error": "网络服务错误, 请查看网络状态或稍后再试!",
+      "not_found": "页面不存在",
+      "tool_deleted": "该工具已删除, 更多请访问 <site>302.AI</site>",
+      "tool_disabled": "该工具已禁用, 更多请访问 <site>302.AI</site>",
+      "unknown_error": "发生未知错误, 请联系客服"
+    },
+
+    "footer": {
+      "copyright_content": "本项目由<logo></logo>驱动",
+      "copyright_leading": "内容由AI生成，仅供参考"
+    },
+    "header": {
+      "language_switcher": {
+        "switch_language": "切换语言"
+      },
+      "theme_switcher": {
+        "dark": "暗色模式",
+        "light": "亮色模式",
+        "system": "跟随系统",
+        "toggle_theme": "切换主题"
+      },
+      "tool_info": {
+        "description": "当前工具相关信息",
+        "title": "关于",
+        "trigger": {
+          "label": "打开/关闭工具信息弹窗"
+        }
+      }
+    }
+  },
+  "home": {
+    "header": {
+      "title": "AI绘图提示词专家"
+    }
+  },
+  "history": {
+    "empty": "暂无历史记录"
+  },
+  "switch": {
+    "natural_language": "自然语言",
+    "keywords": "关键词",
+    "history": "历史生成记录",
+    "pic": "图库",
+    "text_description": "文字描述",
+    "image_reference": "图片参考"
+  },
+  "file": {
+    "drop_file": "拖放文件到这里",
+    "or": "或",
+    "upload_file": "点击上传本地图片",
+    "support": "支持jpg、png格式",
+    "uploading": "上传中"
+  },
+  "actions": {
+    "generate_prompt": "图片转提示词",
+    "generate_image": "生成图片",
+    "expand": "展开",
+    "collapse": "收起",
+    "show_more": "显示更多",
+    "show_less": "显示更少",
+    "generate_options": "生成灵感选项",
+    "options": "灵感选项",
+    "delete_image": "删除图片",
+    "change_style": "风格修改",
+    "style_description": "选择标签或文字描述你想要修改的风格",
+    "switch_style": "换一换",
+    "download": "下载",
+    "add_as_style": "风格转换",
+    "add_as_reference": "添加为风格参考图",
+    "delete": "删除",
+    "generating_prompt": "正在生成提示词",
+    "replace_image": "替换图片"
+  },
+  "language": {
+    "zh": "中文",
+    "ja": "日文",
+    "translate": "翻译"
+  },
+  "image_desc_reference": {
+    "title": "图片描述参考",
+    "reference_image": "参考图",
+    "origin_image": "操作图"
+  },
+  "category": {
+    "composition": {
+      "title": "构图",
+      "rule_of_thirds": "三分法",
+      "symmetrical": "对称构图",
+      "leading_lines": "引导线",
+      "framing": "框架构图",
+      "negative_space": "留白",
+      "diagonal": "斜线构图",
+      "close_up": "特写",
+      "diagonal_composition": "对角线构图",
+      "fill_the_frame": "填充构图"
+    },
+    "lighting": {
+      "title": "光线",
+      "side_lighting": "侧光",
+      "backlight": "逆光",
+      "soft_light": "柔光",
+      "hard_light": "硬光",
+      "natural_light": "自然光",
+      "artificial_light": "人造光",
+      "point_light": "点光源"
+    },
+    "depth": {
+      "title": "景深",
+      "shallow": "浅景深",
+      "deep": "深景深",
+      "graduated": "渐变景深",
+      "selective_focus": "选择性对焦"
+    },
+    "color": {
+      "title": "色彩",
+      "high_saturation": "高饱和度",
+      "low_saturation": "低饱和度",
+      "monochromatic": "单色调",
+      "complementary": "互补色",
+      "vibrant": "色彩浓郁",
+      "cool_tones": "冷色调",
+      "warm_tones": "暖色调",
+      "high_contrast": "高对比度",
+      "low_contrast": "低对比度",
+      "black_and_white": "黑白"
+    },
+    "texture": {
+      "title": "质感",
+      "smooth": "光滑",
+      "rough": "粗糙",
+      "textured": "纹理",
+      "watercolor": "水彩",
+      "oil_painting": "油画",
+      "sketch": "素描",
+      "printmaking": "版画",
+      "ink_painting": "水墨画",
+      "crayon": "蜡笔画",
+      "metallic": "金属感"
+    },
+    "perspective": {
+      "title": "视角",
+      "low_angle": "仰视角",
+      "eye_level": "平视角",
+      "oblique": "斜视角"
+    },
+    "style": {
+      "title": "风格",
+      "photography": "摄影",
+      "illustration": "插图",
+      "surrealism": "超现实主义",
+      "abstract": "抽象艺术",
+      "impressionism": "印象派",
+      "modernism": "现代主义",
+      "post_modernism": "后现代主义",
+      "cyberpunk": "赛博朋克",
+      "post_apocalyptic": "废土风",
+      "anime": "二次元",
+      "realism": "写实"
+    },
+    "theme": {
+      "title": "主题",
+      "fantasy": "梦幻",
+      "nostalgic": "怀旧",
+      "nature": "自然",
+      "urban": "城市",
+      "portrait": "人像"
+    }
+  },
+  "info": {
+    "active_generations": "活动生成: {{count}}"
+  },
+  "styles": {
+    "anime": "动漫",
+    "watercolor": "水彩风",
+    "low_poly": "低多边形",
+    "pixel_art": "像素艺术",
+    "steampunk": "蒸汽朋克",
+    "cyberpunk": "赛博朋克",
+    "minimalist": "极简线条",
+    "retro": "复古风",
+    "graffiti": "涂鸦艺术",
+    "realistic": "写实",
+    "impressionism": "印象派",
+    "surrealism": "超现实主义",
+    "abstract": "抽象艺术",
+    "classical": "古典主义",
+    "pop_art": "波普艺术",
+    "ghibli": "吉卜力",
+    "sci_fi": "科幻风",
+    "illustration": "插画",
+    "ink_painting": "水墨画",
+    "sketch": "素描",
+    "black_and_white": "黑白",
+    "crayon": "蜡笔画",
+    "disney": "迪士尼风",
+    "3d_animation": "3D动画",
+    "dreamy": "梦幻风"
+  }
+}
