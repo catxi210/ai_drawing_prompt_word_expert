@@ -2,13 +2,13 @@
 
 <p align="center">The AI drawing prompt word expert uses AI to convert images into prompts or modify image styles, providing inspiration, optimization, translation and other auxiliary functions, while supporting one-click text-to-image generation to quickly test prompt effects.</p>
 
-<p align="center"><a href="https://302.ai/en/tools/imgprompt/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/66" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_AI_drawing_prompt_word_expert_en.png)
 
-This is the open-source version of the [AI drawing prompt word expert](https://302.ai/en/tools/imgprompt/) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
+This is the open-source version of the [AI drawing prompt word expert](https://302.ai/product/detail/66) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
 
 ## Interface Preview
 Upload an image to automatically generate prompts based on the image, click to generate images, and quickly test prompt effects. Manual prompt input is also supported.
