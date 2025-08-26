@@ -2,13 +2,13 @@
 
 <p align="center">AI绘图提示词专家使用AI将图片转换成提示词或对图片进行风格修改，提供灵感、优化、翻译等辅助功能，同时支持一键文生图，快速测试提示词效果。</p>
 
-<p align="center"><a href="https://302.ai/tools/imgprompt/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/66" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_AI_drawing_prompt_word_expert.png)
 
-来自[302.AI](https://302.ai)的[AI 绘图提示词专家](https://302.ai/tools/imgprompt/)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
+来自[302.AI](https://302.ai)的[AI 绘图提示词专家](https://302.ai/product/detail/66)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
 上传一张图片即可自动根据图片生成提示词，点击生成图片，快速测试提示词效果。同时支持手动输入提示词。
