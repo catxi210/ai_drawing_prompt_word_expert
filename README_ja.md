@@ -2,13 +2,13 @@
 
 <p align="center">AI図面プロンプトワードエキスパートは、AIを使用して画像をプロンプトに変換したり、画像のスタイルを修正したりします。インスピレーション、最適化、翻訳などの補助機能を提供し、ワンクリックでテキストから画像を生成してプロンプトの効果を素早くテストできます。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/imgprompt/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/66" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_AI_drawing_prompt_word_expert_jp.png)
 
-[302.AI](https://302.ai/ja/)の[AI図面提示語専門家](https://302.ai/ja/tools/imgprompt/)のオープンソース版です。
+[302.AI](https://302.ai/ja/)の[AI図面提示語専門家](https://302.ai/product/detail/66)のオープンソース版です。
 302.AIに直接ログインすることで、コード不要、設定不要のオンライン体験が可能です。
 あるいは、このプロジェクトをニーズに合わせてカスタマイズし、302.AIのAPI KEYを統合して、自身でデプロイすることもできます。
 
